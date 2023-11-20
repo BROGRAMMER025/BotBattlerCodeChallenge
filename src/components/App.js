@@ -8,7 +8,7 @@ const App = () => {
 
   useEffect(() => {
     
-    fetch('https://my-json-server.typicode.com/BROGRAMMER025/BotBattlerCodeChallenge/db')
+    fetch('')
       .then((response) => response.json())
       .then((data) => setBots(data.bots))
       .catch((error) => console.error('Error fetching bots:', error));
