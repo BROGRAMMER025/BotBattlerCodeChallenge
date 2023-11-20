@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BotBattlerCodeChallenge/static/css/main.e6c13ad2.css",
+    "main.js": "/BotBattlerCodeChallenge/static/js/main.bf87c979.js",
+    "static/js/787.a1ff435a.chunk.js": "/BotBattlerCodeChallenge/static/js/787.a1ff435a.chunk.js",
+    "index.html": "/BotBattlerCodeChallenge/index.html",
+    "main.e6c13ad2.css.map": "/BotBattlerCodeChallenge/static/css/main.e6c13ad2.css.map",
+    "main.bf87c979.js.map": "/BotBattlerCodeChallenge/static/js/main.bf87c979.js.map",
+    "787.a1ff435a.chunk.js.map": "/BotBattlerCodeChallenge/static/js/787.a1ff435a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bf87c979.js"
+  ]
+}
